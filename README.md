@@ -7,7 +7,7 @@ A página simula a apresentação de uma academia, com seções como Hero, Plano
 
 Você pode visualizar o projeto funcionando diretamente pelo link abaixo, sem precisar instalar nada:
 
-➡ Deploy: https://tarefaacademiastackx2.vercel.app/
+* Deploy: https://tarefaacademiastackx2.vercel.app/
 
 Basta clicar e navegar!
 
