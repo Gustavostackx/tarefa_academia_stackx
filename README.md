@@ -1,3 +1,57 @@
+* Sobre o projeto
+
+Este projeto é uma Single Page Application (SPA) criada em React como parte da tarefa da StackX.
+A página simula a apresentação de uma academia, com seções como Hero, Planos, e Contato, seguindo boas práticas de componentes e organização.
+
+* Como acessar o site
+
+Você pode visualizar o projeto funcionando diretamente pelo link abaixo, sem precisar instalar nada:
+
+➡ Deploy: https://tarefaacademiastackx2.vercel.app/
+
+Basta clicar e navegar!
+
+* Como executar o projeto no seu computador
+
+Se você quiser rodar localmente para visualizar ou modificar o código, siga os passos:
+
+- Pré-requisitos
+
+Antes de começar, instale:
+
+Node.js (v16+ recomendado)
+
+npm (vem junto com o Node)
+
+* Instalar dependências
+
+Dentro da pasta do projeto, execute: Npm Install
+
+* Tecnologias utilizadas
+
+React.js
+
+JSX
+
+CSS
+
+Node.js
+
+npm
+
+Vite/Create React App
+
+Deploy
+
+O deploy foi realizado utilizando:
+
+GitHub (código)
+
+Vercel (hospedagem)
+
+Sempre que eu fizer git push, a Vercel atualiza o site automaticamente.
+
+Git (opcional, mas recomendado)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
